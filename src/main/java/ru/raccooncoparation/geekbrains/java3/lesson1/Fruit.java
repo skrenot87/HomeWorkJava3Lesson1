@@ -1,6 +1,8 @@
+package ru.raccooncoparation.geekbrains.java3.lesson1;
+
 public class Fruit {
 
-    private float wight;
+    private final float wight;
 
     public Fruit(float wight) {
         this.wight = wight;
@@ -8,9 +10,6 @@ public class Fruit {
 
     public float getWeight() {
         return wight;
-    }
-
-    public <T extends Fruit> void add(T fruits) {
     }
 }
 
