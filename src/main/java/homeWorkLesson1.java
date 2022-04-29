@@ -17,6 +17,7 @@ public class homeWorkLesson1 {
 
     /*
      *   Написать метод, который преобразует массив в ArrayList<T>;
+     *
      */
 
     public static <T> ArrayList<T> arrToArrayList(T[] arr) {
