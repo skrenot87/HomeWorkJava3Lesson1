@@ -1,0 +1,10 @@
+# idea
+/shelf/
+/workspace.xml
+
+# idea
+/out
+*.iml
+.idea
+pom.xml
+readmy.txt
